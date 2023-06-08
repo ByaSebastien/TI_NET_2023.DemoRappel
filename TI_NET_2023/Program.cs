@@ -156,4 +156,6 @@ foreach (NewDateTime date in newDates)
     Console.WriteLine(date);
 }
 
+Console.WriteLine("Coucou");
+
 #endregion
