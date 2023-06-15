@@ -324,4 +324,6 @@ foreach (string s in list)
     Console.Write(s + " | ");
 }
 
+//list.ForEach(monMot => Console.WriteLine(monMot + " | "));
+
 #endregion
